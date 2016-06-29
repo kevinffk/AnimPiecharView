@@ -1,6 +1,7 @@
 # Animation Piechar View
+android animation piechar view, can fling and when stop in a pie area, it will adjust the position to aim the center position of the pie area.
 
-# SHOW
+# Screenshot
 
 ![image](https://github.com/kevinffk/AnimPiecharView/blob/master/AnimPiecharView/demo.gif) 
 
