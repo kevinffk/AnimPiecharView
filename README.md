@@ -4,7 +4,7 @@
 
 ![image](https://github.com/kevinffk/AnimPiecharView/blob/master/AnimPiecharView/demo.gif) 
 
-#Implementation Steps
+#Usage
 
 ##Step1 
 ####add animation piechar view into layout xml.
