@@ -46,6 +46,9 @@ pieCharBeanList.add(new PieCharBean(10f, "piece 6"));
 
 pieCharView.setData(pieCharBeanList);
 ```
+###Tips
+* sum of the items percentage should equals 100 (sum of percentage == 100)
+* the size of items should no more than 15 (pieCharBeanList.size() <= 15)
 
 ##Step3
 ####register an animation piechar view listener
