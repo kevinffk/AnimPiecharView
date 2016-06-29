@@ -72,14 +72,17 @@ protected void onDestroy() {
     pieCharView.release();
 }
 ```
-##License
+
+##Done
+any questions and welcome to send email for me:) 
+kevinffk@126.com
+
+#License
 ```
 Copyright (c) 2016 kevinffk
 
 Licensed under the Apache License, Version 2.0
 
 ```
-##Done
-any questions and welcome to send email for me:) 
-kevinffk@126.com
+
 
